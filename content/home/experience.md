@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "経歴"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,44 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  title = "特任助教"
+  company = "京都大学 大学院情報学研究科"
+  date_start = "2007-04-01"
+  date_end = "2008-04-01"
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "特定助教"
+  company = "京都大学 大学院情報学研究科"
+  date_start = "2008-05-01"
+  date_end = "2011-02-01"
 
+[[experience]]
+  title = "助教"
+  company = "京都大学 大学院情報学研究科"
+  date_start = "2011-03-01"
+  date_end = "2013-05-01"
+
+[[experience]]
+  title = "特定准教授"
+  company = "京都大学 大学院情報学研究科"
+  date_start = "2013-06-01"
+  date_end = "2017-03-01"
+
+[[experience]]
+  title = "特定准教授"
+  company = "京都大学 デザイン学ユニット"
+  date_start = "2017-04-01"
+  date_end = "2019-03-01"
+
+[[experience]]
+  title = "准教授"
+  company = "兵庫県立大学 大学院応用情報科学研究科"
+  date_start = "2017-04-03"
+  date_end = ""
+
+[[experience]]
+  title = "客員准教授 "
+  company = "国立情報学研究所"
+  date_start = "2018-04-02"
+  date_end = ""
 +++

@@ -1,41 +1,41 @@
 ---
 # Display name
-title: 大島 裕明
+title: 吳恩達
 
 # Username (this should match the folder name)
 authors:
-- admin
+- 吳恩達
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: 
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: 兵庫県立大学
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- 情報検索
-- 自然言語処理
-- 機械学習
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
-  - course: 工学部 情報知能工学科
-    institution: 神戸大学
-    year: 2001
-  - course: 自然科学研究科 情報知能工学専攻
-    institution: 神戸大学
-    year: 2004
-  - course: 情報学研究科 社会情報学専攻
-    institution: 京都大学
-    year: 2007
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
